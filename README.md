@@ -21,10 +21,10 @@ Bu uygulama ile mevcut kodunuzu ve bağlantılarınızı basit bir arayüzle kul
 -Ana Grup
 - Alt Grup
 - Kod Ekleme
-- Bağlantı Ekleme
+- Link Ekleme
 Tüm özellikleri düzenleyebilir, yeniden adlandırabilir ve silebilirsiniz. Ayrıca kodu kopyalayabilirsiniz.
 # Veri Depolama
 Verileriniz, kodu ilk çalıştırdığınızda oluşturulan veri klasörünün içindeki JSON dosyasında saklanır.
 # Uyarı
 - Exe dosyasını taşımak isterseniz, veri klasörünü aynı konuma taşımanız gerekir.
-- Exe dosyası veri klasörünün içindeyse, ikinci bir veri klasörü oluşturulur. (Verileriniz diğer klasörde kalacaktır.)
+- Exe dosyası data klasörünün içindeyse, ikinci bir data klasörü oluşturulur. (Verileriniz diğer klasörde kalacaktır.)
