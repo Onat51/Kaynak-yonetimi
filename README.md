@@ -1,7 +1,7 @@
 # Resource Manager 
 This application is indispensable for those working in cybersecurity or other software developers. With this application, you can use your existing code and links with a simple interface. 
-# 
-Application Content With this application, you can use your existing code and links with a simple interface. 
+# Application Content 
+With this application, you can use your existing code and links with a simple interface. 
 -Main Group 
 - Subgroup 
 - Adding Code 
@@ -16,8 +16,8 @@ Your data is stored in the JSON file inside the data folder created when you fir
 
 # Kaynak Yöneticisi
 Bu uygulama, siber güvenlik alanında çalışanlar veya diğer yazılım geliştiricileri için vazgeçilmezdir. Bu uygulama ile mevcut kodunuzu ve bağlantılarınızı basit bir arayüzle kullanabilirsiniz.
-#
-Uygulama İçeriği Bu uygulama ile mevcut kodunuzu ve bağlantılarınızı basit bir arayüzle kullanabilirsiniz.
+# Uygulama İçeriği 
+Bu uygulama ile mevcut kodunuzu ve bağlantılarınızı basit bir arayüzle kullanabilirsiniz.
 -Ana Grup
 - Alt Grup
 - Kod Ekleme
